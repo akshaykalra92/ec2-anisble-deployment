@@ -12,7 +12,7 @@ Compute.tf has dos2unix problem. Run utility before running ansible in linux box
 terraform.auto.tfvars
 //AWS
 region = "us-east-1"
-vpc_cidr             = "10.20.20.0/26"
+vpc_cidr             = "10.20.20.0/16"
 public_subnets_cidr  = ["10.20.20.0/28"]
 access_key="AKIAZXXXX"
 secret_key="SgDZMXXXXXXX/0"
