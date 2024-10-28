@@ -9,7 +9,7 @@ resource "aws_security_group" "http-sg" {
     from_port   = "80"
     to_port     = "80"
     protocol    = "tcp"
-    cidr_blocks = ["123.45.76.89/32"]
+    cidr_blocks = ["XXXXXX/32"]
   }
 
   egress {

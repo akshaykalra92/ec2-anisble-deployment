@@ -49,9 +49,9 @@ Compute.tf has dos2unix problem. Run utility before running ansible in linux box
 
 + ansible-apache to run application using ansible
 
-![img.png](img.png)
+![img.png](images/img.png)
 
-![img_1.png](img_1.png)
+![img_1.png](images/img_1.png)
 
 
 terraform.auto.tfvars
